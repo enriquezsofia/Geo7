@@ -52,20 +52,16 @@ function initMap() {
     });
 
     //MARCADORES Y LOC
-    marker1.setPosition(new google.maps.LatLng(lat, lng));
     marker1.addListener('click', function() {
         infowindow1.open(map, marker1);
     });
 
-    marker2.setPosition(new google.maps.LatLng(lat, lng));
     marker1.addListener('click', function() {
         infowindow2.open(map, marker2);
     });
 
-    marker3.setPosition(new google.maps.LatLng(lat, lng));
     marker3.addListener('click', function() {
         infowindow3.open(map, marker3);
     });
-    map.panTo(new google.maps.LatLng(lat, lng));
 
 } 
