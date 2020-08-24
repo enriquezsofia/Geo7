@@ -55,7 +55,7 @@ function initMap() {
         infowindow1.open(map, marker1);
     });
 
-    marker1.addListener('click', function() {
+    marker2.addListener('click', function() {
         infowindow2.open(map, marker2);
     });
 
