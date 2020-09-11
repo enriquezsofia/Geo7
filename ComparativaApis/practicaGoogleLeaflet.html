@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Geolocalización</title>
+    <!-- Bootstrap -->
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+      integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+      crossorigin="anonymous"
+    />
+    <!-- Leaflet CSS -->
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
+      integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
+      crossorigin=""
+    />
+
+    <style>
+      html,
+      body {
+        margin: 0px;
+        padding: 0px;
+      }
+
+      #mapG {
+        width: 100%;
+        height: 340px;
+      }
+
+      #mapL {
+        width: 100%;
+        height: 340px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <h1>MAPA API DE GOOGLE MAPS</h1>
+    <div id="mapG"></div>
+    <br />
+    <h1>MAPA API DE LEAFLET</h1>
+    <div id="mapL"></div>
+  </body>
+
+  <script>
+    function iniciaMapaGoogle() {
+      var propiedades = {
+        center: {
+          lat: 21.152639,
+          lng: -101.711598,
+        },
+        zoom: 12,
+      };
+
+      var mapa = document.getElementById('mapG');
+
+      var map = new google.maps.Map(mapa, propiedades);
+
+      var marker = new google.maps.Marker({
+        position: { lat: 0, lng: 0 },
+        map: map,
+      });
+
+      //var watchId = null;
+
+      const boton = document.getElementById('boton');
+
+      function error(positioError) {
+        console.log(positioError.messsage);
+      }
+    }
+  </script>
+
+  <!--Leaflet API-->
+  <script
+    src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"
+    integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg=="
+    crossorigin=""
+  ></script>
+  <!---->
+  <script>
+    //LEAFLET API
+    var map = L.map('mapL').setView([50.84673, 4.35247], 12);
+
+    L.tileLayer('https://tile.openstreetmap.be/osmbe/{z}/{x}/{y}.png', {
+      attribution:
+        '&copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors' +
+        ', Tiles courtesy of <a href="https://geo6.be/">GEO-6</a>',
+      maxZoom: 18,
+    }).addTo(map);
+
+    var marker = L.marker([50.84673, 4.35247]).addTo(map);
+  </script>
+
+  <script
+    src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+    integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+    crossorigin="anonymous"
+  ></script>
+  <script
+    src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+    integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+    crossorigin="anonymous"
+  ></script>
+  <script
+    src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+    integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+    crossorigin="anonymous"
+  ></script>
+  <!-- Google maps API-->
+  <script
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBxsnbsnKh_r6OD6Tp7Mi6PzAl2fMOxobM&callback=iniciaMapaGoogle"
+    async
+    defer
+  ></script>
+</html>
