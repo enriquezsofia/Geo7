@@ -62,15 +62,52 @@ function checkPoly() {
       L.marker([el[0], el[1]], { icon: newIcon }).addTo(mapP);
     });
 
+    mostrarAlerta();
     //Inicializacion de segundo mapa
     L.tileLayer(tilesP[Math.floor(Math.random() * tilesP.length) + 1], {
       maxZoom: 17,
     }).addTo(mapP);
 
-    mostrarAlerta();
   }
 }
 
+var htmlTable = '';
+var tdCoord= '';
+function hacerTabla(){
+  var id= 1;
+  totMarks.forEach(coord => {
+    console.log('micoord', coord);
+    tdCoord=`<td>${coord[0]}</td><td>${coord[1]}</td>`;
+    htmlTable += `<tr><th scope="row">${id}</th>${tdCoord}</tr>`;
+    id++;
+  });
+}
+
 function mostrarAlerta(){
-  
+  hacerTabla();
+
+  Swal.fire({
+    title: 'Coordenadas',
+    html: `<table class="table table-sm">
+    <thead>
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">Latitud</th>
+        <th scope="col">Longitud</th>
+      </tr>
+    </thead>
+    <tbody>
+      ${htmlTable}
+    </tbody>
+  </table>`,
+    width: 600,
+    padding: '3em',
+    background: '#fff url("https://sweetalert2.github.io/images/trees.png")',
+    backdrop: `
+      rgba(0,0,123,0.4)
+      url("https://sweetalert2.github.io/images/nyan-cat.gif")
+      left top
+      no-repeat
+    `
+  })
 }
