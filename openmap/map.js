@@ -1,5 +1,6 @@
 //const tilesProvider = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
-const tilesProvider = 'http://{s}.tile.stamen.com/watercolor/{z}/{x}/{y}.jpg';
+// const tilesProvider = 'http://{s}.tile.stamen.com/watercolor/{z}/{x}/{y}.jpg';
+const tilesProvider = 'https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png';
 
 
 let Mapview = L.map('Mapview').setView([21.152334, -101.7113132], 14);
