@@ -30,14 +30,6 @@ let tot = 0;
 document.getElementById('totMarker').addEventListener('change', function () {
   
   tot = parseInt(document.getElementById('totMarker').value);
-  if(tot % 2 == 0){
-    newIcon = L.icon({
-      iconUrl: 'https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png',
-      iconSize: [60, 60],
-      iconAnchor: [30, 60],
-      popupAnchor: [-3, -76],
-    });
-  }
 });
 
 L.tileLayer(tilesProvider, {
@@ -52,7 +44,11 @@ L.tileLayer(tilesProvider, {
   Mapview.on('dblclick', function (e) {
     if (allowedClicks < tot) {
       let latLng = Mapview.mouseEventToLatLng(e.originalEvent);
-      console.log(latLng);
+      if(allowedClicks % 2 == 0){
+        newIcon.options.iconUrl = "ubicacion.png";
+      }else{
+        newIcon.options.iconUrl = "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png";
+      }
       L.marker([latLng.lat, latLng.lng], { icon: newIcon }).addTo(Mapview);
       let locs = [latLng.lat, latLng.lng];
       totMarks.push(locs);
