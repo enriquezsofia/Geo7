@@ -12,11 +12,12 @@
 <body>
     <div id="Mapview" style="height: 70vh;"></div>
     <div id="locationForm">
-        <label>Longitud: </label>
-        <input id="totMarker" type="number" /><br>
         <label>Latitud: </label>
-        <input id="totMarker" type="number" /><br>
-        <input type="button" value="Guardar Ubicacion">
+        <input id="idLat" type="number" /><br>
+        <label>Longitud: </label>
+        <input id="idLong" type="number" /><br>
+        
+        <input type="button" value="Guardar Ubicacion" onclick="saveLocation()">
       </div>
 
      <!-- Make sure you put this AFTER Leaflet's CSS -->

@@ -39,6 +39,16 @@ var newLocationRef = db.collection("ubicacion_tiempo_real").doc();
 getLocation();
 readAllLocations();
 
+
+function saveLocation(){
+  let long_lat = {
+    lat: document.getElementById('idLat').value,
+    long: document.getElementById('idLong').value
+  };
+  this.L.marker([long_lat.lat, long_lat.long], { icon: newIcon }).addTo(Mapview);
+  addToFirebaseDB(long_lat);
+}
+
 // Function Firebase INIT
 
 function addToFirebaseDB(lat_long){
