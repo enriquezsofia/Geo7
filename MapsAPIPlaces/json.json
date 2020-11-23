@@ -1,0 +1,865 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CrQCIQEAAL6-MRKtcNnedX_FesNl8apltAC-JJ4JOQBq9eH_TjQm8iRxvsNUPLTOo8ONwnZbChyxf3_SV5DHaCdfoVvWfRoHmB9Y1_yjDviLritHtL_6xuyCATmcr55xLpMRqj4ptKuF0WzezzHjkTIcK-vNkk60e9KftObn4S-irc60jRTF3VXF7-uLaLe2lHFfbDGA5sgNy0e7hMiJylPTqFKp_Prvv0WCBVvj65PVQzC_hMjs-WcBnRHzku0dWLw4UoodgsUYbLRc3GsY0bgblHBvkZL8ij9rmoNKTT6R5Iut8vqqCpVylqfBtCYtdHscvyYhD45Fs54AtBoX4FF1XXBss3Y-15YpnPOLpseZCpoFww_4IJ-uhgOAHI0xnWfJCyrrnyZKTGh4ywqYHWa8WC-yWHgSEE6nBis86hMo5c-gCCVgHa4aFK7E2Vufhuqi8f_sMW1GlEW7MhaG",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Blvd. Adolfo López Mateos 1317, El Coecillo, 37260 León, Gto., Mexico",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1195593,
+               "lng" : -101.6654038
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.12085107989272,
+                  "lng" : -101.6640745701073
+               },
+               "southwest" : {
+                  "lat" : 21.11815142010728,
+                  "lng" : -101.6667742298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "NE Hotel",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1012,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113311653260762901843\"\u003eNehotel Nueva Estancia\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1rso6Eqej1oHlq_xvXYo16fZJRpwKqg6YfDH5iiSc32zyFRlFp20ehN9XZ-QdQDuaEQmh6CJ334uumu_mH3ZFzpKoImDySQsi5FKJNbr-GJtiXLJa_jvkKu7xr5j-NEMEhCa12Okepy5yVgV-6rN8wYyGhRte4SDARtmtcdatDr9DXo1YPs5Qw",
+               "width" : 1800
+            }
+         ],
+         "place_id" : "ChIJDygQqVy-K4QRAc9XuN7ip_M",
+         "plus_code" : {
+            "compound_code" : "489M+RR León, Guanajuato",
+            "global_code" : "75HW489M+RR"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJDygQqVy-K4QRAc9XuN7ip_M",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1083
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Blvd. Adolfo López Mateos 1102, Los Gavilanes, 37266 León, Gto., Mexico",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1192202,
+               "lng" : -101.6669412
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.12071802989272,
+                  "lng" : -101.6655390201073
+               },
+               "southwest" : {
+                  "lat" : 21.11801837010728,
+                  "lng" : -101.6682386798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "HS HOTSSON Hotel Leon",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112585623576300385964\"\u003ececil ward\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAkEvzqcKKvk_-raCn5G-iXeF9AsJ_KB1V-WldqpHKXvmVtR5Fg6l5oJXgDXcGNd2eDFCHKXX3fQPmlz79CbRr_NnKRtN9FJBntI27Dx97x2jLBQZMj-cvu46bukJEq8q6EhCyv892oci--c_iAWjXfQ9eGhS8Rl38jdSrlf5-8p4gRqQw1nE-ug",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJMzVl1xF0K4QRF4J0UySd9o4",
+         "plus_code" : {
+            "compound_code" : "489M+M6 León, Guanajuato",
+            "global_code" : "75HW489M+M6"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJMzVl1xF0K4QRF4J0UySd9o4",
+         "types" : [ "lodging", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5534
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Carretera de, Lagos De Moreno - Leon 404, 37128 El Laurel, Gto., Mexico",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1810314,
+               "lng" : -101.7422887
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.18234692989272,
+                  "lng" : -101.7409983201073
+               },
+               "southwest" : {
+                  "lat" : 21.17964727010728,
+                  "lng" : -101.7436979798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "Thai Lagoon",
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110643139664344590162\"\u003eMaza1176 M\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAqq1nKi0J--uOTju5dJrakrHD1k16kYPv63l0C6fXY_Rsfhg6zvRsSuMEfLaNwBeFTCQBBVu2KGN7Aql_zO4rJ6v_oVeHW7vfSa4qAYsr7Mb-XF5fXPvN5LjZrr_G_BDeEhAgTukiWxREySo0S4NQqajFGhRdrDaLiKcsLoinG8zroGaVnptaxQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ1bwsCFDHK4QRASaps7G1JzE",
+         "plus_code" : {
+            "compound_code" : "57J5+C3 El Laurel, Guanajuato",
+            "global_code" : "75HW57J5+C3"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ1bwsCFDHK4QRASaps7G1JzE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 327
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Blvrd Venustiano Carranza 103, San Miguel, 37390 León, Gto., Mexico",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1106898,
+               "lng" : -101.687117
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.11204112989273,
+                  "lng" : -101.6858040701073
+               },
+               "southwest" : {
+                  "lat" : 21.10934147010728,
+                  "lng" : -101.6885037298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Mansion E. Borbon",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100805828485277708126\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZtBbkyN31DxET6T2lUFlszUM_ef6CU_sk2udi9qsJEMsOktkEpaHNBoDeb8FDppMV6ocatxnDDKbIzLXk47tT6KkZ9YfIxka7yJMWwpjBxnt9Ct9xFFV75rM3BUUefjZEhBvTGWC91AWWFiXriFNm89aGhTd4Uv2-oip86-ctfploIc_PtW-iw",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJzaPI2RK_K4QRW7IIErJHtUI",
+         "plus_code" : {
+            "compound_code" : "4867+75 León, Guanajuato",
+            "global_code" : "75HW4867+75"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJzaPI2RK_K4QRW7IIErJHtUI",
+         "types" : [ "lodging", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 199
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Calle Independencia 118, Centro, 37000 León, Gto., Mexico",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1197334,
+               "lng" : -101.6808134
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.12107537989272,
+                  "lng" : -101.6794276201073
+               },
+               "southwest" : {
+                  "lat" : 21.11837572010728,
+                  "lng" : -101.6821272798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "Hotel Casa Massima",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100829950612157428189\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAKEYH02qJtQhrzTyxIbzprhscdXKsJIODCdGr-Q5ED5JQtN2aYUiorv2pUWdzQBKcw3pRV7tAxoJGdvQZkqEOXBT1lNglTPXUu9mKx9i84m3tsMT-jPczHIVbNfXi2KT2EhAhe4fQrnP13FsendcdvFQ2GhQhIkrGFT6S2Rtexh0cFgmVXOHX0Q",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJTeJnUwq_K4QRI7e26uLANrY",
+         "plus_code" : {
+            "compound_code" : "4899+VM León, Guanajuato",
+            "global_code" : "75HW4899+VM"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJTeJnUwq_K4QRI7e26uLANrY",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 133
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Calle Calz. de los Heroes 602, La Martinica, 37500 León, Gto., Mexico",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1171794,
+               "lng" : -101.6666138
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.11865877989272,
+                  "lng" : -101.6652615201073
+               },
+               "southwest" : {
+                  "lat" : 21.11595912010728,
+                  "lng" : -101.6679611798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "Hotel Misión León",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114964188055556596373\"\u003eEnterprise Inn\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA2zNWC-x2fUOu7KIiHL0Q-rh6MELlWuxEjrWyxwQxxmdImaU0x9ywg3ZQQM-w_xL4yhuQZeBbvZZHGh5zq7bsmUYJ_3eSkSqJs_M27DhNbY-QTJqzR2HLwhZUW7iVB362EhAG9qCP4yQ-ORBf20nvaHEvGhRVWKJPpncMu9F7jjOIYqUfNhJMMw",
+               "width" : 6000
+            }
+         ],
+         "place_id" : "ChIJcXni8_NzK4QRYs82GAcWSHE",
+         "plus_code" : {
+            "compound_code" : "488M+V9 León, Guanajuato",
+            "global_code" : "75HW488M+V9"
+         },
+         "rating" : 4,
+         "reference" : "ChIJcXni8_NzK4QRYs82GAcWSHE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 825
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Verdi 112, León Moderno, 37480 León, Gto., Mexico",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1088255,
+               "lng" : -101.6638943
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.11015347989272,
+                  "lng" : -101.6624738701073
+               },
+               "southwest" : {
+                  "lat" : 21.10745382010728,
+                  "lng" : -101.6651735298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "Hotel Verdi",
+         "place_id" : "ChIJ___DBq2_K4QRVhj85u31PgE",
+         "plus_code" : {
+            "compound_code" : "485P+GC León, Guanajuato",
+            "global_code" : "75HW485P+GC"
+         },
+         "rating" : 3,
+         "reference" : "ChIJ___DBq2_K4QRVhj85u31PgE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Blvd. Adolfo López Mateos 1308, Los Gavilanes, 37270 León, Gto., Mexico",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1179129,
+               "lng" : -101.6631259
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.11914787989272,
+                  "lng" : -101.6617762701073
+               },
+               "southwest" : {
+                  "lat" : 21.11644822010728,
+                  "lng" : -101.6644759298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "Holiday Inn Leon",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2667,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110243152712583298263\"\u003eHoliday Inn Leon\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXqV1L3xGbymmXpdYbH8PULvJi7OASr1w7xAnFZMUkqXN2dH1exRCc46T3-e9kb5_Pxe-sx8cEbDi7yb4RFXlUpSygLSuDz4D60ZPTejhikYWtIlJN9VpSkikqE7wKKuoEhAnwtC9oiDJ-7YHIsDYGdpvGhSTvrTsvMWNOrPhsNbQn4j8ruApyA",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJtQTDnaq_K4QRP9KO5MBdhho",
+         "plus_code" : {
+            "compound_code" : "489P+5P León, Guanajuato",
+            "global_code" : "75HW489P+5P"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJtQTDnaq_K4QRP9KO5MBdhho",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1976
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Monte Carlo 405, Killian, 37260 León, Gto., Mexico",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1230553,
+               "lng" : -101.6615527
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.12437317989272,
+                  "lng" : -101.6601432701073
+               },
+               "southwest" : {
+                  "lat" : 21.12167352010728,
+                  "lng" : -101.6628429298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "Hotel Kassia Leon",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 540,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116260937483175758085\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAAcqxx9LXKac_fT6vPRzOQPMpLuDFcemo68qZ2fAkDf0muExhQ7VcvSf9NnCkWV7Npl5Zx-KVKSYh6fJcdX1nI9m57bpA7NaQNbB9lrNpyyz1KjNeFigFxCoBj_Vl4SHCEhDf8-S8i5pWkozhnkdsWw6BGhR0edrAsxUzexyGHXWfgtyG18qavQ",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJf81NgSm_K4QRDec1Qn1mpbI",
+         "plus_code" : {
+            "compound_code" : "48FQ+69 León, Guanajuato",
+            "global_code" : "75HW48FQ+69"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJf81NgSm_K4QRDec1Qn1mpbI",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 66
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Blvd. la Luz 1103, Killian, 37260 León, Gto., Mexico",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1221992,
+               "lng" : -101.6626086
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.12353557989272,
+                  "lng" : -101.6612611701073
+               },
+               "southwest" : {
+                  "lat" : 21.12083592010728,
+                  "lng" : -101.6639608298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "Hotel del Carmen",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115938314293543063003\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA95Qh_eE1elkb8wvoMr8PKESz78h1C9DKxO5eapdaErYhALJjbNg4kdnZudRVE1ISAGe0ef2fE3yj7m8lqThgU474sxoclzt2ZFDCMeqtznQlUWU3HJMrWkVL7p4KE5YDEhBP4pbFjVHmuC7Y52jBI0sZGhS4Av-RRMzu2ksgOnnmTgBHkEmTgQ",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJcTXNI7W_K4QRfDbGBoK7Zb8",
+         "plus_code" : {
+            "compound_code" : "48CP+VX León, Guanajuato",
+            "global_code" : "75HW48CP+VX"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJcTXNI7W_K4QRfDbGBoK7Zb8",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 150
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Verdi 112, León Moderno, 37480 León, Gto., Mexico",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1088431,
+               "lng" : -101.6638585
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.11017517989272,
+                  "lng" : -101.6624513701073
+               },
+               "southwest" : {
+                  "lat" : 21.10747552010728,
+                  "lng" : -101.6651510298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "OYO Hotel Verdi",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108123962246201599569\"\u003eAmueblados Verdi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAgCT1BI5R_-t26VKWCVKzg6TN6AGLHI3Jf346pN_4fHIfsBfpl1J8ZZdyidAioRfey2SyDL_cUzpwpMsx4DFNHMK4PAbT7TgTgYkCkOtJ4QmEHRtRXbfvjyUWFpQ8OwnAEhChe2qMqlGtanASn8oBpAf1GhTMS8hcg1qk1YsvgzBymekX4v0BHQ",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJs32gBq2_K4QRXIaRYhTZ4iw",
+         "plus_code" : {
+            "compound_code" : "485P+GF León, Guanajuato",
+            "global_code" : "75HW485P+GF"
+         },
+         "rating" : 4,
+         "reference" : "ChIJs32gBq2_K4QRXIaRYhTZ4iw",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 89
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Blvd. la Luz 1103, El Coecillo, 37260 León, Gto., Mexico",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1222081,
+               "lng" : -101.6626913
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.12354847989272,
+                  "lng" : -101.6613431701073
+               },
+               "southwest" : {
+                  "lat" : 21.12084882010728,
+                  "lng" : -101.6640428298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "Hotel del Carmen",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101701706115546572783\"\u003eNataly Candelaria\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAuQOOFqWqOUJe4ksMIrmxkZl8jkMhtWmtvqmnfKuYpJ0uj3nzE9TWuF-SobHeCm_7GqtnzDbqZ6YsBpCNmAmf_B3lKS5AAn3XRkv-mOCB-BgyBTCk33YiUWNqMQ50EOnCEhBeuUMfKOe_7BS_-IaD40_wGhT3YxOsKOMRhdlYxtSCvsnIBxMABg",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ8Q-swAG_K4QRLkoj0R9n5Lw",
+         "plus_code" : {
+            "compound_code" : "48CP+VW León, Guanajuato",
+            "global_code" : "75HW48CP+VW"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ8Q-swAG_K4QRLkoj0R9n5Lw",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 230
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Calle Rosas Moreno 109, Centro, 37000 León, Gto., Mexico",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.118314,
+               "lng" : -101.6828671
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.11966617989272,
+                  "lng" : -101.6815166201073
+               },
+               "southwest" : {
+                  "lat" : 21.11696652010728,
+                  "lng" : -101.6842162798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "OTHELO",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104047406607417607671\"\u003eHOTEL OTHELO\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAEKUHGQenGCKLLIL0-ZUvShjt0Ez__NpVNtUCqfBEbhgHnTdIA26jfIIomQa-_cyL8kl20W_1p5VnAoqBw58KoeTBL3Xs0Id1oUc5LsQTDVU97qtMuX5JDJuZZh6sBggXEhA_YOy0tbCXPOrR7VVGhnUVGhShYu_ppb7AQ9MIvBGip6DSExb25Q",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJQzHtwAq_K4QRarOFOfkq3nY",
+         "plus_code" : {
+            "compound_code" : "4898+8V León, Guanajuato",
+            "global_code" : "75HW4898+8V"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJQzHtwAq_K4QRarOFOfkq3nY",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 221
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Portal Bravo 14, Centro, 37000 León, Gto., Mexico",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1212978,
+               "lng" : -101.6818466
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.12245392989272,
+                  "lng" : -101.6804839701073
+               },
+               "southwest" : {
+                  "lat" : 21.11975427010728,
+                  "lng" : -101.6831836298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "Ramada Plaza by Wyndham Leon",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 400,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100792187589348938382\"\u003eRamada Plaza Leon\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAky-LQcEF2D_YX-A0hGm6uzISVL-57Qw6WUji4HSet7U-cVt6kgmz5S7DMMac3bINhrGZT6xuRW0B9tq4jFHrXrJbx0JoLFL6doWAtQjRJ1Du1wXuZDe7GPGnjd9xCyJ7EhBOV8-s5oIESuoeWrqLmi0gGhRmmo8dVfZcTWAR6Wv_s8mWTU2uug",
+               "width" : 711
+            }
+         ],
+         "place_id" : "ChIJcULYE5-_K4QR4ZFt83wWY3c",
+         "plus_code" : {
+            "compound_code" : "48C9+G7 León, Guanajuato",
+            "global_code" : "75HW48C9+G7"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJcULYE5-_K4QR4ZFt83wWY3c",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1546
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Portal Hidalgo 5, Centro, 37000 León, Gto., Mexico",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1230469,
+               "lng" : -101.6836395
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.12419012989272,
+                  "lng" : -101.6822459701073
+               },
+               "southwest" : {
+                  "lat" : 21.12149047010727,
+                  "lng" : -101.6849456298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "Hostal El Armario",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1702,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109291866505015648406\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAALgxwNgvn_gPauIIHegfhkoxldaVbgC9FKAVQiIaX9yNBmWkGKDlbP9pKb19WyDEd7IDdPX63hC5bPOjQXSVUVQNIgbttHMIMeH_clLT4kIckl4A-26ZuWVzz2ebXzAlGEhCsvG1KVCPtacpL8Ncy4RJ_GhReV4X_Wg_VyJe7bhBdQtvwRB352Q",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJC4lQrwy_K4QRRobHECoyNL4",
+         "plus_code" : {
+            "compound_code" : "48F8+6G León, Guanajuato",
+            "global_code" : "75HW48F8+6G"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJC4lQrwy_K4QRRobHECoyNL4",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 338
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Calle Españita 543, El Coecillo, 37250 León, Gto., Mexico",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1208854,
+               "lng" : -101.6648583
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.12219327989272,
+                  "lng" : -101.6635198201073
+               },
+               "southwest" : {
+                  "lat" : 21.11949362010727,
+                  "lng" : -101.6662194798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "Hotel Opportunity",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106488926610905370349\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAVKXn2QA-2P8wZK39SxK9WDcmsTRHG4fvcczOSdfeALXeG4pTxraSVPHK-Se4-lJ6yVVJK1s3xEGT5VjAX9CoUoPUjfDeI2kTTnBTzyb4xUTuO5v-E-Ln9B-Gc6IbbYAPEhDrTNVUdyewi1K5iENOqsKcGhSJY8Yy86xGhmNFJ3RbwD79PZBcUw",
+               "width" : 6000
+            }
+         ],
+         "place_id" : "ChIJaw7oxgC_K4QRYXCvIlHEGvo",
+         "plus_code" : {
+            "compound_code" : "48CP+93 León, Guanajuato",
+            "global_code" : "75HW48CP+93"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJaw7oxgC_K4QRYXCvIlHEGvo",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 434
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Benito Juárez 221, Centro, 37000 León, Gto., Mexico",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1207633,
+               "lng" : -101.6836442
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.12212032989272,
+                  "lng" : -101.6823052201073
+               },
+               "southwest" : {
+                  "lat" : 21.11942067010727,
+                  "lng" : -101.6850048798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "Seorial Platino",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106110121900668048222\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAVe5ehMm13oqcnUcPkP7FCD7d25tVYcPymJ9pW_hrkZk4R8rE0gpbqcXILTUn4LRh8h54T4gOS_uip962LFOE5tdHr6R7m6UiwViHzIZQJZmVtYvepZl2XdFiXohHOFXYEhBC7q-PxuDCUMWqBqEb0ukiGhQ1npDrGudrKjXeKskk823XdTb5ow",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJw8Pfy56_K4QRherKaaSEc1s",
+         "plus_code" : {
+            "compound_code" : "48C8+8G León, Guanajuato",
+            "global_code" : "75HW48C8+8G"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJw8Pfy56_K4QRherKaaSEc1s",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1614
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Blvd. Manuel J. Clouthier 245 Col. Jardines del Campestre Col, Jardines del Campestre, 37128 León, Gto., Mexico",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1645156,
+               "lng" : -101.6937679
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.16593342989272,
+                  "lng" : -101.6922493201073
+               },
+               "southwest" : {
+                  "lat" : 21.16323377010727,
+                  "lng" : -101.6949489798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "Crowne Plaza Leon",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100400258717803488778\"\u003eCrowne Plaza Leon\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA5w-iVGvoeYZJoq7QJmQdJR5fIdUJg8xgCyB9SykFKJ1ypYzkARCYrQorbcPIxJtNj4_BC_14qn9ExXLm3B5XsvBetPK5t7PfBdZOKZyoz8uYZocx7DctypVvZbZ7JZCcEhAepE1BaecP4K1tG65_3ze2GhTTk81ZA1GPUEEhOm0sSD_C0DNu9g",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ5eDP67K4K4QRYwpkoItKeYg",
+         "plus_code" : {
+            "compound_code" : "5874+RF León, Guanajuato",
+            "global_code" : "75HW5874+RF"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ5eDP67K4K4QRYwpkoItKeYg",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2160
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Av. Miguel Alemán 508, Centro, 37000 León, Gto., Mexico",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.120873,
+               "lng" : -101.687239
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.12221487989272,
+                  "lng" : -101.6857998701073
+               },
+               "southwest" : {
+                  "lat" : 21.11951522010728,
+                  "lng" : -101.6884995298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "Hotel Plaza Aleman",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1712,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112816470907634359751\"\u003eAntonio Kozarith\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAqNQSgu7Gb-PgxuO8O7UoYjF881suIxl8JnkSUCa_rGw06a460ezMhDtvCJ6eUAxXTRFYGE6amEFoyc3V0VRzwEDaZ4Zva_cLY8DIGez3PJtWnUay4PIQYDANEb1gOY-tEhAbIchy_pyyHhFZ9GGdiH4OGhSaCyZEMjEPb0w821ghMbdcvK16_w",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJA7baX3S_K4QRGdD8JrI7u10",
+         "plus_code" : {
+            "compound_code" : "48C7+84 León, Guanajuato",
+            "global_code" : "75HW48C7+84"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJA7baX3S_K4QRGdD8JrI7u10",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 423
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Calle 20 de Enero 143, Centro, 37000 León, Gto., Mexico",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1238206,
+               "lng" : -101.6836735
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.12515547989272,
+                  "lng" : -101.6822847201073
+               },
+               "southwest" : {
+                  "lat" : 21.12245582010728,
+                  "lng" : -101.6849843798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "Capital O Hotelito Lindo & Boutique León",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111976342801522435863\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAjpGdEJBao7b4ec_u2bytKYOVXhelTeWMgZQo5fbrHG2Kc2NECmrRivngCnEdoxtylcQQvLWlFjivoXWLa3--LVUHR3JpSTF9ZIZ0gFB3DKPEOW_jjKqkkDppzWhmpFJ8EhCZFJoS5DzfXdOYm1jwiPtZGhRMQWz6-C9-RFEOBCZEJa3GudJMkQ",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJb2XluBa_K4QRnFEa0CbuI00",
+         "plus_code" : {
+            "compound_code" : "48F8+GG León, Guanajuato",
+            "global_code" : "75HW48F8+GG"
+         },
+         "rating" : 4,
+         "reference" : "ChIJb2XluBa_K4QRnFEa0CbuI00",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 50
+      }
+   ],
+   "status" : "OK"
+}
